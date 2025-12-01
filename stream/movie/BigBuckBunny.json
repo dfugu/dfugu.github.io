@@ -1,9 +1,24 @@
 {"streams":[
 {
-"name":"net.flix | SelfHosted SDR N/A ⚡️",
-"description":"📂 Big Buck Bunny.mp4\n💾 123.45 MB\n🌐 English\n🔗 fuguflix",
-"url":"http://cdn.net.flix/video/hd.v/BigBuckBunny.mp4",
-"behaviorHints":{"bingeGroup":"fugu-|-flix-📺 HDRip 🎞️ avc 🎵 AAC-N/A","filename":"Big Buck Bunny.mp4","videoSize":123456789}},
+"name":"Blender | SelfHosted AVI 1080p ⚡️",
+"description":"📂 big_buck_bunny_1080p_surround.avi\n💾 928.67 MB\n🌐 English\n🔗 Blender",
+"url":"https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_1080p_surround.avi",
+"behaviorHints":{"bingeGroup":"Blender📺 1080p 🎞️ h264 🎵 AAC-5.1","filename":"big_buck_bunny_1080p_surround.avi","videoSize":928670754}},
+{
+"name":"Blender | SelfHosted h264 1080p ⚡️",
+"description":"📂 big_buck_bunny_1080p_h264.mov\n💾 725.1 MB\n🌐 English\n🔗 Blender",
+"url":"https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_1080p_h264.mov",
+"behaviorHints":{"bingeGroup":"Blender📺 1080p 🎞️ h264 🎵 AAC-2.1","filename":"big_buck_bunny_1080p_h264.mov","videoSize":725106140}},
+{
+"name":"Blender | SelfHosted AVI 720p ⚡️",
+"description":"📂 big_buck_bunny_720p_surround.avi\n💾 332.24 MB\n🌐 English\n🔗 Blender",
+"url":"https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_surround.avi",
+"behaviorHints":{"bingeGroup":"Blender📺 720p 🎞️ h264 🎵 AAC-5.1","filename":"big_buck_bunny_720p_surround.avi","videoSize":332243668}},
+{
+"name":"Blender | SelfHosted h264 480p ⚡️",
+"description":"📂 big_buck_bunny_480p_h264.mov\n💾 249.23 MB\n🌐 English\n🔗 Blender",
+"url":"https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_480p_h264.mov",
+"behaviorHints":{"bingeGroup":"Blender📺 480p 🎞️ h264 🎵 AAC-2.1","filename":"big_buck_bunny_480p_h264.mov","videoSize":249229883}},
 {
 "name":"net.flix | SelfHosted SDR 720P ⏳",
 "description":"📂 Big Buck Bunny.mp4\n💾 234.56 MB\n🌐 English\n🔗 fuguflix",
