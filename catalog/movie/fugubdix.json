@@ -1,6 +1,16 @@
 {
   "metas": [
     {
+      "id": "tt0208092",
+       "name": "Snatch",
+        "year": 2000,
+        "poster": "https://images.metahub.space/poster/small/tt0208092/img",
+        "posterShape": "regular",
+        "banner": "https://images.metahub.space/background/medium/tt0208092/img",
+        "isFree": true,
+        "type": "movie"
+    },
+    {
       "id": "BigBuckBunny",
        "name": "Big Buck Bunny",
         "year": 2008,
