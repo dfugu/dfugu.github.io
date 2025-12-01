@@ -1,6 +1,26 @@
 {
   "metas": [
     {
+      "id": "tt31822168",
+       "name": "Alakshye Ritwik",
+        "year": 2025,
+        "poster": "https://images.metahub.space/poster/small/tt31822168/img",
+        "posterShape": "regular",
+        "banner": "https://images.metahub.space/background/medium/tt31822168/img",
+        "isFree": true,
+        "type": "movie"
+    },
+    {
+      "id": "tt31325595",
+       "name": "Grihostho",
+        "year": 2025,
+        "poster": "https://images.metahub.space/poster/small/tt31325595/img",
+        "posterShape": "regular",
+        "banner": "https://images.metahub.space/background/medium/tt31325595/img",
+        "isFree": true,
+        "type": "movie"
+    },
+    {
       "id": "tt0208092",
        "name": "Snatch",
         "year": 2000,
